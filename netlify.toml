@@ -1,5 +1,5 @@
 [build]
-  base = "support-desk-react/"
+  base = "/"
   command = "npm run build"
   publish = "build/"
 
