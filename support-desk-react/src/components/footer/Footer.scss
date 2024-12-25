@@ -4,8 +4,13 @@
     justify-content: center;
 
     a {
-        color: gray;
+        color: #919191;
         text-decoration: none;
         font-family: 'Papyrus', sans-serif;
+        font-size: 0.9rem;
+
+        &:hover {
+            color: #a9a9a9;
+        }
     }
 }
